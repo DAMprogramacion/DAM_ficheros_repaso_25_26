@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
@@ -41,10 +43,15 @@ public class Helper {
     public static List<Person> getPeopleUsingScanner(String sPath) {
         List<Person> people = new ArrayList<>();
         Path path = Paths.get(sPath); //otra forma distinta a Path.of()
+        StringBuilder stringBuilder = new StringBuilder();
+        int countLines = 0;
+        stringBuilder.append("Leido fichero: ").append(path.getFileName()).append('\n');
         try {
+            stringBuilder.append("Bytes leidos: ").append(Files.size(path)).append('\n');
             Scanner sc = new Scanner(path);
             while (sc.hasNextLine()) {
                 String line = sc.nextLine();
+                countLines++;
                 String[] tokens =  line.split(",");
                 try {
                     int id = Integer.parseInt(tokens[0].trim());
@@ -60,6 +67,12 @@ public class Helper {
         } catch (IOException e) {
             System.err.println("Fichero no encontrado");;
         }
+        stringBuilder.append("Nº líneas leídas: ").append(countLines).append('\n');
+        stringBuilder.append("Nº objetos creados: ").append(people.size()).append('\n');
+        stringBuilder.append("Fecha del report: ").append(LocalDate.now().
+                format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));
+        System.out.println(stringBuilder.toString());
+        getReport("ficheros/report.txt", stringBuilder.toString());
         return people;
     }
 
@@ -85,9 +98,17 @@ public static  Optional<Person> findByEmail(String filePath, String email) {
                 return Optional.empty();
             }
         }
-public static void getReport(String sPath, String content) {
-        //final creado fichero nombre con tantos bytes
-}
+    public static void getReport(String sOPath, String content) {
+        Path path = Path.of(sOPath);
+        try {
+            Files.writeString(path, content);
+            System.out.printf("Escrito report en el fichero %s de %d bytes%n",
+                    path.getFileName(), Files.size(path));
+        } catch (IOException e) {
+            System.err.println(e.getMessage());
+        }
+
+    }
 }
 
 

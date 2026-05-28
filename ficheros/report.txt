@@ -1,0 +1,5 @@
+Leido fichero: people.csv
+Bytes leidos: 41691
+Nº líneas leídas: 1001
+Nº objetos creados: 1000
+Fecha del report: 28/05/2026
