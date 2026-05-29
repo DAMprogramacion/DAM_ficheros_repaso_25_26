@@ -1,0 +1,1 @@
+City[nameCity=Telpaneca, nameCountry=Nicaragua, latitude=13.5292779, longitude=-86.2856819]

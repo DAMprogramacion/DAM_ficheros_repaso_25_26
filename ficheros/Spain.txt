@@ -1,0 +1,2 @@
+City[nameCity=Girona, nameCountry=Spain, latitude=42.2470995, longitude=2.0763253]
+City[nameCity=Pamplona/Iruña, nameCountry=Spain, latitude=42.8045028, longitude=-1.6432837]

@@ -1,0 +1,1 @@
+City[nameCity=Jerusalem, nameCountry=Israel, latitude=31.768319, longitude=35.21371]

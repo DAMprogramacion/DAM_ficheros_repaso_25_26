@@ -1,0 +1,1 @@
+City[nameCity=Neskaupstaður, nameCountry=Iceland, latitude=65.1474586, longitude=-13.6711979]

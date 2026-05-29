@@ -1,0 +1,4 @@
+City[nameCity=Dzüyl, nameCountry=Mongolia, latitude=46.7593351, longitude=103.5184746]
+City[nameCity=Baruunturuun, nameCountry=Mongolia, latitude=49.6285187, longitude=94.3896275]
+City[nameCity=Bulag, nameCountry=Mongolia, latitude=49.8590398, longitude=100.6279364]
+City[nameCity=Havtsal, nameCountry=Mongolia, latitude=48.6618569, longitude=91.339774]

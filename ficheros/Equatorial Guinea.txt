@@ -1,0 +1,1 @@
+City[nameCity=Evinayong, nameCountry=Equatorial Guinea, latitude=1.4403613, longitude=10.5718086]

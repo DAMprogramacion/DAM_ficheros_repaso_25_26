@@ -1,0 +1,1 @@
+City[nameCity=Hövsan, nameCountry=Azerbaijan, latitude=40.3802589, longitude=50.0918078]

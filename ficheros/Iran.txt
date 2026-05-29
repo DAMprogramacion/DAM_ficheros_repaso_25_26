@@ -1,0 +1,3 @@
+City[nameCity=Sepīdān, nameCountry=Iran, latitude=30.0450571, longitude=52.2762322]
+City[nameCity=Zehak, nameCountry=Iran, latitude=30.8908344, longitude=61.680106]
+City[nameCity=Dargaz, nameCountry=Iran, latitude=37.4454804, longitude=59.1099161]

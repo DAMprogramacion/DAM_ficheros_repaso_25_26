@@ -1,0 +1,2 @@
+City[nameCity=Gondar, nameCountry=Ethiopia, latitude=12.6030181, longitude=37.4521319]
+City[nameCity=Bichena, nameCountry=Ethiopia, latitude=10.4477737, longitude=38.2031762]

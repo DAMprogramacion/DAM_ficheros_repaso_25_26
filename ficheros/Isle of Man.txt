@@ -1,0 +1,1 @@
+City[nameCity=Laxey, nameCountry=Isle of Man, latitude=54.2195351, longitude=-4.4012575]

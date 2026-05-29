@@ -1,0 +1,2 @@
+City[nameCity=Piggs Peak, nameCountry=Swaziland, latitude=-25.9685155, longitude=31.2483291]
+City[nameCity=Manzini, nameCountry=Swaziland, latitude=-26.5081999, longitude=31.3713164]

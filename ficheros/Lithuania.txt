@@ -1,0 +1,2 @@
+City[nameCity=Virbalis, nameCountry=Lithuania, latitude=54.62667, longitude=22.81694]
+City[nameCity=Ignalina, nameCountry=Lithuania, latitude=55.3734577, longitude=26.2092274]

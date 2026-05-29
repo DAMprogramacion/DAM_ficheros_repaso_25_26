@@ -1,0 +1,1 @@
+City[nameCity=Santa Venera, nameCountry=Malta, latitude=35.892944, longitude=14.476536]

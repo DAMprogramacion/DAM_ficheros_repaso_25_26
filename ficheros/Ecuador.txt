@@ -1,0 +1,2 @@
+City[nameCity=Santa Elena, nameCountry=Ecuador, latitude=-2.2268901, longitude=-80.8593845]
+City[nameCity=Zamora, nameCountry=Ecuador, latitude=-4.0620941, longitude=-78.948623]

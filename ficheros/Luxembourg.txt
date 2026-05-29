@@ -1,0 +1,1 @@
+City[nameCity=Niedercorn, nameCountry=Luxembourg, latitude=49.5508306, longitude=5.9340983]

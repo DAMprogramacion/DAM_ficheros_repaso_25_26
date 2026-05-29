@@ -1,0 +1,1 @@
+City[nameCity=Saltpond, nameCountry=Ghana, latitude=5.2023106, longitude=-1.0514312]

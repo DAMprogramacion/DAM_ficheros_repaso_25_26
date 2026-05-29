@@ -1,0 +1,1 @@
+City[nameCity=Lukunor, nameCountry=Micronesia, latitude=5.5047283, longitude=153.8190084]

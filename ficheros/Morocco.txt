@@ -1,0 +1,4 @@
+City[nameCity=Sidi Slimane, nameCountry=Morocco, latitude=34.2622961, longitude=-5.9239749]
+City[nameCity=Selouane, nameCountry=Morocco, latitude=35.0801925, longitude=-2.9475662]
+City[nameCity=Tissa, nameCountry=Morocco, latitude=34.2869441, longitude=-4.6605581]
+City[nameCity=Tan-Tan, nameCountry=Morocco, latitude=28.4380408, longitude=-11.0987374]

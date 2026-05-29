@@ -1,0 +1,1 @@
+City[nameCity=Bārah, nameCountry=Sudan, latitude=13.6986477, longitude=30.3723741]

@@ -1,0 +1,1 @@
+City[nameCity=Verrettes, nameCountry=Haiti, latitude=19.0487026, longitude=-72.4701945]

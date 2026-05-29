@@ -1,0 +1,1 @@
+City[nameCity=Mbale, nameCountry=Kenya, latitude=1.0784436, longitude=34.1810057]

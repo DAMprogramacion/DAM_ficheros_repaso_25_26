@@ -1,0 +1,3 @@
+City[nameCity=Matnah, nameCountry=Yemen, latitude=15.2525945, longitude=44.0270562]
+City[nameCity=Khawr Maksar, nameCountry=Yemen, latitude=12.8025919, longitude=45.0398942]
+City[nameCity=Aţ Ţawīlah, nameCountry=Yemen, latitude=15.4960415, longitude=43.739395]

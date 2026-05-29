@@ -1,0 +1,6 @@
+City[nameCity=Ujmisht, nameCountry=Albania, latitude=41.9238499, longitude=20.3755648]
+City[nameCity=Rubik, nameCountry=Albania, latitude=41.7683491, longitude=19.7859556]
+City[nameCity=Voskop, nameCountry=Albania, latitude=40.6098385, longitude=20.6898971]
+City[nameCity=Dajt, nameCountry=Albania, latitude=41.3934697, longitude=19.9165644]
+City[nameCity=Burrel, nameCountry=Albania, latitude=41.6089452, longitude=20.006257]
+City[nameCity=Tirana, nameCountry=Albania, latitude=41.3275459, longitude=19.8186982]

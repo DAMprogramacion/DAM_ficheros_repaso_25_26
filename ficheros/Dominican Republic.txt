@@ -1,0 +1,3 @@
+City[nameCity=La Agustina, nameCountry=Dominican Republic, latitude=18.4931208, longitude=-69.9293076]
+City[nameCity=Juncalito Abajo, nameCountry=Dominican Republic, latitude=19.2199, longitude=-70.81905]
+City[nameCity=San Cristóbal, nameCountry=Dominican Republic, latitude=18.932625, longitude=-70.4079274]

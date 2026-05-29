@@ -1,0 +1,6 @@
+City[nameCity=Ad Darbāsīyah, nameCountry=Syria, latitude=37.0721008, longitude=40.6524512]
+City[nameCity=Al Mushannaf, nameCountry=Syria, latitude=32.7407045, longitude=36.7738708]
+City[nameCity=Iḩsim, nameCountry=Syria, latitude=35.7208473, longitude=36.5567371]
+City[nameCity=Qārah, nameCountry=Syria, latitude=34.1540161, longitude=36.7442377]
+City[nameCity=Kurnāz, nameCountry=Syria, latitude=35.3837308, longitude=36.4851204]
+City[nameCity=Tālīn, nameCountry=Syria, latitude=35.14849, longitude=36.03288]

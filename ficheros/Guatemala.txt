@@ -1,0 +1,5 @@
+City[nameCity=Palencia, nameCountry=Guatemala, latitude=14.6698, longitude=-90.357]
+City[nameCity=Esquipulas Palo Gordo, nameCountry=Guatemala, latitude=14.9417812, longitude=-91.8252028]
+City[nameCity=El Quetzal, nameCountry=Guatemala, latitude=14.6213127, longitude=-90.5500942]
+City[nameCity=San Vicente Pacaya, nameCountry=Guatemala, latitude=14.413539, longitude=-90.633471]
+City[nameCity=Senahú, nameCountry=Guatemala, latitude=15.3733776, longitude=-89.7790986]

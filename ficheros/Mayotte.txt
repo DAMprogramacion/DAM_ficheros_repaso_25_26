@@ -1,0 +1,1 @@
+City[nameCity=Ouangani, nameCountry=Mayotte, latitude=-12.8490559, longitude=45.1394745]

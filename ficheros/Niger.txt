@@ -1,0 +1,1 @@
+City[nameCity=Téra, nameCountry=Niger, latitude=14.0031627, longitude=0.7556575]

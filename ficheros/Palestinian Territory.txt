@@ -1,0 +1,4 @@
+City[nameCity=Qaţanah, nameCountry=Palestinian Territory, latitude=31.83366, longitude=35.11894]
+City[nameCity=Kafr ad Dīk, nameCountry=Palestinian Territory, latitude=32.0671, longitude=35.08287]
+City[nameCity=Juḩr ad Dīk, nameCountry=Palestinian Territory, latitude=31.45571, longitude=34.43719]
+City[nameCity=‘Ābūd, nameCountry=Palestinian Territory, latitude=32.016539, longitude=35.068807]

@@ -1,0 +1,1 @@
+City[nameCity=Bisée, nameCountry=Saint Lucia, latitude=14.0242809, longitude=-60.9758292]

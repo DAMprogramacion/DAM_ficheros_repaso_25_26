@@ -1,0 +1,5 @@
+City[nameCity=El Vigía, nameCountry=Venezuela, latitude=8.6144269, longitude=-71.6554692]
+City[nameCity=Mirimire, nameCountry=Venezuela, latitude=11.1626327, longitude=-68.7259306]
+City[nameCity=El Dividive, nameCountry=Venezuela, latitude=9.4745801, longitude=-70.7346811]
+City[nameCity=Macapo, nameCountry=Venezuela, latitude=9.8247812, longitude=-68.4397551]
+City[nameCity=Cumaná, nameCountry=Venezuela, latitude=10.431916, longitude=-64.183316]

@@ -1,0 +1,3 @@
+City[nameCity=Tsiombe, nameCountry=Madagascar, latitude=-25.3168473, longitude=45.4863093]
+City[nameCity=Ifanadiana, nameCountry=Madagascar, latitude=-21.3032134, longitude=47.6381357]
+City[nameCity=Ampasimanolotra, nameCountry=Madagascar, latitude=-18.8200534, longitude=49.0652963]

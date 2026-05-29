@@ -1,0 +1,3 @@
+City[nameCity=Kunsan, nameCountry=South Korea, latitude=35.9676772, longitude=126.7366293]
+City[nameCity=Asan, nameCountry=South Korea, latitude=36.789796, longitude=127.0018494]
+City[nameCity=Hwasun, nameCountry=South Korea, latitude=35.0645029, longitude=126.9864799]

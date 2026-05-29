@@ -1,0 +1,1 @@
+City[nameCity=Buchanan, nameCountry=Liberia, latitude=5.887247, longitude=-10.0303723]

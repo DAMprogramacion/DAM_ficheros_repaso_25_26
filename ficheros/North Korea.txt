@@ -1,0 +1,1 @@
+City[nameCity=Kilju, nameCountry=North Korea, latitude=40.9612198, longitude=129.3209986]

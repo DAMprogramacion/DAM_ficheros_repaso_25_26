@@ -1,0 +1,1 @@
+City[nameCity=Gjinoc, nameCountry=Kosovo, latitude=42.3155073, longitude=20.816549]

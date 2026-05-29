@@ -1,0 +1,3 @@
+City[nameCity=Lalmanirhat, nameCountry=Bangladesh, latitude=25.9923398, longitude=89.2847251]
+City[nameCity=Pābna, nameCountry=Bangladesh, latitude=24.0308651, longitude=89.2275131]
+City[nameCity=Cox’s Bāzār, nameCountry=Bangladesh, latitude=21.4394636, longitude=92.0077316]

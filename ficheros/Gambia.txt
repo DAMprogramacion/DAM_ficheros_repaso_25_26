@@ -1,0 +1,1 @@
+City[nameCity=Somita, nameCountry=Gambia, latitude=13.2063104, longitude=-16.3037052]

@@ -1,0 +1,3 @@
+City[nameCity=Bosanski Šamac, nameCountry=Bosnia and Herzegovina, latitude=45.0610659, longitude=18.4690346]
+City[nameCity=Ostrožac, nameCountry=Bosnia and Herzegovina, latitude=44.9114638, longitude=15.9259321]
+City[nameCity=Mejdan - Obilićevo, nameCountry=Bosnia and Herzegovina, latitude=44.76324, longitude=17.19012]

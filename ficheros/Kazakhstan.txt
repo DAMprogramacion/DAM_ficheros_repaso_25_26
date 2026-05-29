@@ -1,0 +1,6 @@
+City[nameCity=Bayanaūyl, nameCountry=Kazakhstan, latitude=51.1656869, longitude=71.4439333]
+City[nameCity=Aral, nameCountry=Kazakhstan, latitude=46.803197, longitude=61.6639055]
+City[nameCity=Qalqaman, nameCountry=Kazakhstan, latitude=51.1480274, longitude=71.4256221]
+City[nameCity=Lugovoy, nameCountry=Kazakhstan, latitude=42.9438711, longitude=72.7617572]
+City[nameCity=Zharkent, nameCountry=Kazakhstan, latitude=44.166512, longitude=79.999974]
+City[nameCity=Shchūchīnsk, nameCountry=Kazakhstan, latitude=52.9352213, longitude=70.188509]

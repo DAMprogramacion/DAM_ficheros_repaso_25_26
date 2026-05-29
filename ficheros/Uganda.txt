@@ -1,0 +1,2 @@
+City[nameCity=Kanungu, nameCountry=Uganda, latitude=-0.8897256, longitude=29.7831356]
+City[nameCity=Wakiso, nameCountry=Uganda, latitude=0.3987229, longitude=32.4792744]

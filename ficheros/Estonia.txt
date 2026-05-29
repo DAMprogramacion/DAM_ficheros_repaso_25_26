@@ -1,0 +1,2 @@
+City[nameCity=Pärnu-Jaagupi, nameCountry=Estonia, latitude=58.610989, longitude=24.5034541]
+City[nameCity=Sauga, nameCountry=Estonia, latitude=58.4286125, longitude=24.498407]

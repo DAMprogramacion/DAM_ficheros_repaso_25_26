@@ -1,0 +1,2 @@
+City[nameCity=Virje, nameCountry=Croatia, latitude=46.0473698, longitude=16.9785233]
+City[nameCity=Rezovac, nameCountry=Croatia, latitude=45.8060242, longitude=17.4116835]

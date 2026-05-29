@@ -1,0 +1,7 @@
+City[nameCity=Lāchi, nameCountry=Pakistan, latitude=31.5555726, longitude=74.3925525]
+City[nameCity=Mehrābpur, nameCountry=Pakistan, latitude=27.100102, longitude=68.3711064]
+City[nameCity=Kamālia, nameCountry=Pakistan, latitude=30.7361622, longitude=72.6661867]
+City[nameCity=Dadu, nameCountry=Pakistan, latitude=26.732065, longitude=67.786348]
+City[nameCity=Fort Abbās, nameCountry=Pakistan, latitude=29.2083348, longitude=72.8578648]
+City[nameCity=Sohbatpur, nameCountry=Pakistan, latitude=28.4499078, longitude=68.4494842]
+City[nameCity=Kālābāgh, nameCountry=Pakistan, latitude=32.9005808, longitude=71.4599651]

@@ -1,0 +1,1 @@
+City[nameCity=Ouani, nameCountry=Comoros, latitude=-12.1349328, longitude=44.4252603]

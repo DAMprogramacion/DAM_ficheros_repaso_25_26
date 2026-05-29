@@ -1,0 +1,1 @@
+City[nameCity=Kaédi, nameCountry=Mauritania, latitude=16.1535575, longitude=-13.5032081]

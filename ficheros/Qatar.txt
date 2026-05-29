@@ -1,0 +1,1 @@
+City[nameCity=Umm Sa‘īd, nameCountry=Qatar, latitude=24.9909255, longitude=51.5493483]

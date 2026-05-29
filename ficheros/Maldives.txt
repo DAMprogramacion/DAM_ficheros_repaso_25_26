@@ -1,0 +1,1 @@
+City[nameCity=Viligili, nameCountry=Maldives, latitude=0.7573413, longitude=73.434227]

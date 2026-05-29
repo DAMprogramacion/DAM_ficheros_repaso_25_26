@@ -1,0 +1,6 @@
+City[nameCity=Ipoh, nameCountry=Malaysia, latitude=4.6096768, longitude=101.1064003]
+City[nameCity=Kuala Lumpur, nameCountry=Malaysia, latitude=3.1523104, longitude=101.7178316]
+City[nameCity=Melaka, nameCountry=Malaysia, latitude=2.2166992, longitude=102.2039671]
+City[nameCity=Kuala Terengganu, nameCountry=Malaysia, latitude=5.329576, longitude=103.1369108]
+City[nameCity=Puchong, nameCountry=Malaysia, latitude=3.0015321, longitude=101.6184908]
+City[nameCity=Johor Bahru, nameCountry=Malaysia, latitude=1.5604242, longitude=103.6384827]

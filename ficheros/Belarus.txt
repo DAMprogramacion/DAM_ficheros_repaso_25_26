@@ -1,0 +1,4 @@
+City[nameCity=Zaslawye, nameCountry=Belarus, latitude=54.0006143, longitude=27.276841]
+City[nameCity=Lahishyn, nameCountry=Belarus, latitude=52.3359637, longitude=25.9862701]
+City[nameCity=Vishow, nameCountry=Belarus, latitude=53.905048, longitude=27.5393261]
+City[nameCity=Vidzy, nameCountry=Belarus, latitude=55.3948269, longitude=26.6327297]

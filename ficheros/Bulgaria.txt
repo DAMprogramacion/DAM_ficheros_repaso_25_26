@@ -1,0 +1,4 @@
+City[nameCity=Satovcha, nameCountry=Bulgaria, latitude=41.5565343, longitude=24.0428542]
+City[nameCity=Primorsko, nameCountry=Bulgaria, latitude=42.2431463, longitude=27.760764]
+City[nameCity=Asen, nameCountry=Bulgaria, latitude=42.6700312, longitude=23.3695036]
+City[nameCity=Rakitovo, nameCountry=Bulgaria, latitude=42.0256471, longitude=24.1082622]

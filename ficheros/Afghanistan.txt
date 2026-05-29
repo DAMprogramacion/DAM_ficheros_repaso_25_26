@@ -1,0 +1,4 @@
+City[nameCity=Now Zād, nameCountry=Afghanistan, latitude=32.4000226, longitude=64.4318916]
+City[nameCity=Sar-e Pul, nameCountry=Afghanistan, latitude=35.6707473, longitude=66.0463534]
+City[nameCity=Sar Chakān, nameCountry=Afghanistan, latitude=35.70178, longitude=65.23055]
+City[nameCity=Qaram Qōl, nameCountry=Afghanistan, latitude=36.533333, longitude=69.016667]

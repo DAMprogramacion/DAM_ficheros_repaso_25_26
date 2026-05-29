@@ -1,0 +1,5 @@
+City[nameCity=Navoiy, nameCountry=Uzbekistan, latitude=40.103922, longitude=65.3688335]
+City[nameCity=Kitob, nameCountry=Uzbekistan, latitude=39.1217895, longitude=66.8856247]
+City[nameCity=Mang’it Shahri, nameCountry=Uzbekistan, latitude=42.12215, longitude=60.06276]
+City[nameCity=Khiwa, nameCountry=Uzbekistan, latitude=41.3895075, longitude=60.3414529]
+City[nameCity=Khiwa, nameCountry=Uzbekistan, latitude=41.3895075, longitude=60.3414529]

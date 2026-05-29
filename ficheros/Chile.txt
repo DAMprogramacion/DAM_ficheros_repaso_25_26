@@ -1,0 +1,2 @@
+City[nameCity=El Monte, nameCountry=Chile, latitude=-33.6815281, longitude=-70.9853968]
+City[nameCity=Lebu, nameCountry=Chile, latitude=-37.6097143, longitude=-73.6483294]

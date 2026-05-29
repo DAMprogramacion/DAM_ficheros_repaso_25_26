@@ -1,0 +1,6 @@
+City[nameCity=Quebrada Canoa, nameCountry=Panama, latitude=8.6800991, longitude=-82.855251]
+City[nameCity=El Progreso, nameCountry=Panama, latitude=8.4297819, longitude=-82.8317486]
+City[nameCity=La Loma, nameCountry=Panama, latitude=9.315382, longitude=-82.157199]
+City[nameCity=Las Palmas, nameCountry=Panama, latitude=8.0036924, longitude=-81.5596427]
+City[nameCity=Gómez, nameCountry=Panama, latitude=8.5657243, longitude=-82.7387601]
+City[nameCity=Alto del Espino, nameCountry=Panama, latitude=8.8443024, longitude=-79.8548823]

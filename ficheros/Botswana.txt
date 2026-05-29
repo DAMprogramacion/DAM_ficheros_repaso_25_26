@@ -1,0 +1,2 @@
+City[nameCity=Mopipi, nameCountry=Botswana, latitude=-21.2001343, longitude=24.8656498]
+City[nameCity=Mmathubudukwane, nameCountry=Botswana, latitude=-24.6, longitude=26.43]

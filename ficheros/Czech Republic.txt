@@ -1,0 +1,8 @@
+City[nameCity=Horní Lideč, nameCountry=Czech Republic, latitude=49.181214, longitude=18.0610035]
+City[nameCity=Lipov, nameCountry=Czech Republic, latitude=48.9059421, longitude=17.4598869]
+City[nameCity=Horní Bříza, nameCountry=Czech Republic, latitude=49.8401299, longitude=13.3555893]
+City[nameCity=Jesenice, nameCountry=Czech Republic, latitude=50.0843138, longitude=12.4747444]
+City[nameCity=Bílovec, nameCountry=Czech Republic, latitude=49.7563861, longitude=18.0158192]
+City[nameCity=Kralupy nad Vltavou, nameCountry=Czech Republic, latitude=50.2416453, longitude=14.310645]
+City[nameCity=Újezd, nameCountry=Czech Republic, latitude=49.7647258, longitude=16.9050077]
+City[nameCity=Rokytnice nad Jizerou, nameCountry=Czech Republic, latitude=50.728686, longitude=15.4452326]

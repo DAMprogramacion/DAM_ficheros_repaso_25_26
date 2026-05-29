@@ -1,0 +1,2 @@
+City[nameCity=Niafunké, nameCountry=Mali, latitude=16.0271237, longitude=-3.9878427]
+City[nameCity=Sikasso, nameCountry=Mali, latitude=11.3223834, longitude=-5.6983979]

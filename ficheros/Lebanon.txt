@@ -1,0 +1,1 @@
+City[nameCity=Bent Jbaïl, nameCountry=Lebanon, latitude=33.120548, longitude=35.4335263]

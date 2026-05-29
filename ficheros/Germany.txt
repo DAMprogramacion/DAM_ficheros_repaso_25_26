@@ -1,0 +1,3 @@
+City[nameCity=Halle, nameCountry=Germany, latitude=51.4787653, longitude=12.0365785]
+City[nameCity=Freiburg im Breisgau, nameCountry=Germany, latitude=48.0044582, longitude=7.8374651]
+City[nameCity=Hamburg, nameCountry=Germany, latitude=53.5830905, longitude=9.7537598]

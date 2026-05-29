@@ -1,0 +1,2 @@
+City[nameCity=Tabūk, nameCountry=Saudi Arabia, latitude=28.3835079, longitude=36.5661908]
+City[nameCity=Hayil, nameCountry=Saudi Arabia, latitude=27.7076143, longitude=41.9196471]

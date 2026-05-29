@@ -1,0 +1,8 @@
+City[nameCity=5 de Mayo, nameCountry=Mexico, latitude=19.2874648, longitude=-99.6494479]
+City[nameCity=Santa Maria, nameCountry=Mexico, latitude=25.5822549, longitude=-100.9086492]
+City[nameCity=20 de Noviembre, nameCountry=Mexico, latitude=19.4449916, longitude=-99.1082647]
+City[nameCity=Reforma, nameCountry=Mexico, latitude=17.8579334, longitude=-93.1548091]
+City[nameCity=La Esperanza, nameCountry=Mexico, latitude=19.421145, longitude=-99.1283211]
+City[nameCity=Buenos Aires, nameCountry=Mexico, latitude=19.4052965, longitude=-99.1504583]
+City[nameCity=San Miguel, nameCountry=Mexico, latitude=19.3579802, longitude=-99.0806088]
+City[nameCity=Los Nogales, nameCountry=Mexico, latitude=25.8038312, longitude=-100.3027856]

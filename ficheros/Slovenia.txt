@@ -1,0 +1,6 @@
+City[nameCity=Poljčane, nameCountry=Slovenia, latitude=46.3141609, longitude=15.5784672]
+City[nameCity=Šalovci, nameCountry=Slovenia, latitude=46.8235919, longitude=16.2881649]
+City[nameCity=Radeče, nameCountry=Slovenia, latitude=46.0655001, longitude=15.1821191]
+City[nameCity=Bistrica pri Tržiču, nameCountry=Slovenia, latitude=46.3583447, longitude=14.2930813]
+City[nameCity=Kamnica, nameCountry=Slovenia, latitude=46.5734584, longitude=15.6125252]
+City[nameCity=Legen, nameCountry=Slovenia, latitude=46.5010451, longitude=15.1077845]

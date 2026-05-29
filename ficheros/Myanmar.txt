@@ -1,0 +1,2 @@
+City[nameCity=Yangon, nameCountry=Myanmar, latitude=16.8660694, longitude=96.195132]
+City[nameCity=Pyapon, nameCountry=Myanmar, latitude=16.2850333, longitude=95.6799816]

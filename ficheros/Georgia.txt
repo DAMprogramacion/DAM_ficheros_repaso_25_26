@@ -1,0 +1,1 @@
+City[nameCity=Khashuri, nameCountry=Georgia, latitude=41.9837685, longitude=43.5865947]

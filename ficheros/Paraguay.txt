@@ -1,0 +1,1 @@
+City[nameCity=San Bernardino, nameCountry=Paraguay, latitude=-25.3461531, longitude=-57.2705691]

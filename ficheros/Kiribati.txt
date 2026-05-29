@@ -1,0 +1,2 @@
+City[nameCity=Betio Village, nameCountry=Kiribati, latitude=1.3566345, longitude=172.9299068]
+City[nameCity=Makin Village, nameCountry=Kiribati, latitude=3.1166667, longitude=172.8]

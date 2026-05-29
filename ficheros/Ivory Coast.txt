@@ -1,0 +1,1 @@
+City[nameCity=Soubré, nameCountry=Ivory Coast, latitude=5.7866228, longitude=-6.5890166]

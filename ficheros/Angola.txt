@@ -1,0 +1,5 @@
+City[nameCity=Caluquembe, nameCountry=Angola, latitude=-13.7866658, longitude=14.687936]
+City[nameCity=Malanje, nameCountry=Angola, latitude=-9.8251183, longitude=16.912251]
+City[nameCity=Uíge, nameCountry=Angola, latitude=-7.6092767, longitude=15.0552391]
+City[nameCity=Nzeto, nameCountry=Angola, latitude=-7.2269461, longitude=12.8687414]
+City[nameCity=Cuito, nameCountry=Angola, latitude=-15.1632458, longitude=19.1612478]

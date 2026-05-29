@@ -1,0 +1,4 @@
+City[nameCity=Drammen, nameCountry=Norway, latitude=59.7414102, longitude=10.2299413]
+City[nameCity=Sandvika, nameCountry=Norway, latitude=59.021857, longitude=10.083357]
+City[nameCity=Oslo, nameCountry=Norway, latitude=59.9026039, longitude=10.767309]
+City[nameCity=Tromsø, nameCountry=Norway, latitude=69.679788, longitude=18.9710079]

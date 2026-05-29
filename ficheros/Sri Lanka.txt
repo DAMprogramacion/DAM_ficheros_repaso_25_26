@@ -1,0 +1,1 @@
+City[nameCity=Wattegama, nameCountry=Sri Lanka, latitude=7.342773, longitude=80.682308]

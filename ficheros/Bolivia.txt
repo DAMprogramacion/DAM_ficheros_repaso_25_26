@@ -1,0 +1,1 @@
+City[nameCity=San Borja, nameCountry=Bolivia, latitude=-14.8518869, longitude=-66.7486446]

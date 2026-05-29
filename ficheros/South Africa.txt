@@ -1,0 +1,5 @@
+City[nameCity=Hopetown, nameCountry=South Africa, latitude=-26.1353484, longitude=28.2949405]
+City[nameCity=Himeville, nameCountry=South Africa, latitude=-29.7108776, longitude=29.5078015]
+City[nameCity=Vredenburg, nameCountry=South Africa, latitude=-32.9127799, longitude=17.9946667]
+City[nameCity=Kutloanong, nameCountry=South Africa, latitude=-26.1597581, longitude=27.7767972]
+City[nameCity=Lichtenburg, nameCountry=South Africa, latitude=-26.3593066, longitude=25.9068847]

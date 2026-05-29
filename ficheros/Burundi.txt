@@ -1,0 +1,1 @@
+City[nameCity=Rutana, nameCountry=Burundi, latitude=-3.9257199, longitude=29.9899512]

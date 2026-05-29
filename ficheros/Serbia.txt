@@ -1,0 +1,5 @@
+City[nameCity=Stari Banovci, nameCountry=Serbia, latitude=44.9878037, longitude=20.2567012]
+City[nameCity=Knjazevac, nameCountry=Serbia, latitude=43.5660829, longitude=22.2466754]
+City[nameCity=Požarevac, nameCountry=Serbia, latitude=44.6208353, longitude=21.1842054]
+City[nameCity=Gornji Milanovac, nameCountry=Serbia, latitude=44.0207262, longitude=20.4633133]
+City[nameCity=Niš, nameCountry=Serbia, latitude=43.3209022, longitude=21.8957589]

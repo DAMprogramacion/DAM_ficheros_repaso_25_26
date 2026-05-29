@@ -1,0 +1,1 @@
+City[nameCity=Mesógi, nameCountry=Cyprus, latitude=34.819583, longitude=32.4608775]

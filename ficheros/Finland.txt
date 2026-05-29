@@ -1,0 +1,5 @@
+City[nameCity=Valkeakoski, nameCountry=Finland, latitude=61.3034539, longitude=23.9771623]
+City[nameCity=Haukivuori, nameCountry=Finland, latitude=62.0249648, longitude=27.2057857]
+City[nameCity=Siikajoki, nameCountry=Finland, latitude=64.8155446, longitude=24.7665727]
+City[nameCity=Kaustinen, nameCountry=Finland, latitude=63.537266, longitude=23.6993197]
+City[nameCity=Honkajoki, nameCountry=Finland, latitude=62.1588835, longitude=22.2669813]

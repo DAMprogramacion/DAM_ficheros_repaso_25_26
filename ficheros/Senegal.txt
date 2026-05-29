@@ -1,0 +1,1 @@
+City[nameCity=Khombole, nameCountry=Senegal, latitude=14.7673872, longitude=-16.685136]

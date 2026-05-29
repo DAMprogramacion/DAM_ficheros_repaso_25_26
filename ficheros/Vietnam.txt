@@ -1,0 +1,8 @@
+City[nameCity=Trần Văn Thời, nameCountry=Vietnam, latitude=9.1009716, longitude=104.8921668]
+City[nameCity=Thị Trấn Yên Thịnh, nameCountry=Vietnam, latitude=18.178456, longitude=105.7028457]
+City[nameCity=Thị Trấn Quế, nameCountry=Vietnam, latitude=20.579097, longitude=105.8711861]
+City[nameCity=Mê Linh, nameCountry=Vietnam, latitude=21.1753431, longitude=105.7308045]
+City[nameCity=Thị Xã Lai Châu, nameCountry=Vietnam, latitude=22.4033272, longitude=103.393389]
+City[nameCity=Thành Phố Thái Bình, nameCountry=Vietnam, latitude=20.4463471, longitude=106.3365828]
+City[nameCity=Giồng Riềng, nameCountry=Vietnam, latitude=9.9238222, longitude=105.3728845]
+City[nameCity=Thị Trấn Quan Hóa, nameCountry=Vietnam, latitude=20.3814569, longitude=105.1171246]

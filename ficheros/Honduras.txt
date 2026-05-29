@@ -1,0 +1,7 @@
+City[nameCity=Santa Cruz, nameCountry=Honduras, latitude=14.9817467, longitude=-87.8893383]
+City[nameCity=Araulí, nameCountry=Honduras, latitude=13.9740494, longitude=-86.5425921]
+City[nameCity=La Libertad, nameCountry=Honduras, latitude=14.7601863, longitude=-87.606295]
+City[nameCity=El Cubolero, nameCountry=Honduras, latitude=13.4840159, longitude=-87.6950899]
+City[nameCity=Monjarás, nameCountry=Honduras, latitude=13.1981877, longitude=-87.3785917]
+City[nameCity=Concordia, nameCountry=Honduras, latitude=14.6322366, longitude=-86.6736997]
+City[nameCity=Támara, nameCountry=Honduras, latitude=14.1899344, longitude=-87.3314264]

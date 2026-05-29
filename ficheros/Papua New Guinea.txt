@@ -1,0 +1,2 @@
+City[nameCity=Kavieng, nameCountry=Papua New Guinea, latitude=-2.5781167, longitude=150.8086082]
+City[nameCity=Panguna, nameCountry=Papua New Guinea, latitude=-6.308009, longitude=155.477221]

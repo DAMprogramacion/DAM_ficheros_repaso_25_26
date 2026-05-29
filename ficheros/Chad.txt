@@ -1,0 +1,1 @@
+City[nameCity=Béboto, nameCountry=Chad, latitude=8.2659713, longitude=16.9388118]

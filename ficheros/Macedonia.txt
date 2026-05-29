@@ -1,0 +1,2 @@
+City[nameCity=Чегране, nameCountry=Macedonia, latitude=41.833253, longitude=20.974874]
+City[nameCity=Prilep, nameCountry=Macedonia, latitude=41.3400747, longitude=21.5500203]

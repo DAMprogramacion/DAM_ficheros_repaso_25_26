@@ -1,0 +1,1 @@
+City[nameCity=Pursat, nameCountry=Cambodia, latitude=12.4651824, longitude=103.8911999]

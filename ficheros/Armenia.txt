@@ -1,0 +1,3 @@
+City[nameCity=Karanlukh, nameCountry=Armenia, latitude=40.2047139, longitude=44.5128424]
+City[nameCity=Masis, nameCountry=Armenia, latitude=40.0634518, longitude=44.4410909]
+City[nameCity=Aygezard, nameCountry=Armenia, latitude=39.9592176, longitude=44.600243]

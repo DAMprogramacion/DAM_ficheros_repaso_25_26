@@ -1,0 +1,1 @@
+City[nameCity=Kourou, nameCountry=French Guiana, latitude=5.1677581, longitude=-52.6449937]
